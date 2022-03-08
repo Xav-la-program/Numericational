@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+
+Solution/eigen-3.4.0/
